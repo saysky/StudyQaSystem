@@ -2,7 +2,7 @@
 - 预览地址：[http://studyqa.liuyanzhao.com](http://studyqa.liuyanzhao.com)
 - 详细介绍地址：[https://liuyanzhao.com/shop/studyqa.html](https://liuyanzhao.com/shop/studyqa.html)
 - 演示视频：链接:https://pan.baidu.com/s/1mG1HirvwVyidnsBIsFSpMQ  密码:ux0z
-- 完成时间：2024年4月
+
 
 # 一、用户需求
 
